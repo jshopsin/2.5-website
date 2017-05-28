@@ -121,4 +121,7 @@ a:visited {
   img {
     max-width: 80%;
   }
+  main {
+    padding-top: 100px;
+  }
 }
