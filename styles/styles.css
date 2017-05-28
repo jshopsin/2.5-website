@@ -118,4 +118,7 @@ a:visited {
   .story-block {
     background-color: lightyellow;
   }
+  img {
+    max-width: 80%;
+  }
 }
